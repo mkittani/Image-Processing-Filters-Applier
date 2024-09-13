@@ -48,9 +48,9 @@ pip install numpy
 python filter_applier.py
 ```
 ## GUI Overview
-1. Open an Image: Load an image (PNG, JPG) from your local machine.
-2. Apply Filters: Select one of the predefined filters or input a custom filter.
-3. Save Image: Save the processed image after applying the filter.
+- Open an Image: Load an image (PNG, JPG) from your local machine.
+- Apply Filters: Select one of the predefined filters or input a custom filter.
+- Save Image: Save the processed image after applying the filter.
 
 ## Contributing
 Feel free to contribute by opening an issue or submitting a pull request.
